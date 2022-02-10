@@ -1,6 +1,6 @@
-## Ionic App
+# Ionic App
 
-Installation of tools:
+## Installation of tools:
 
 1. Install Node & npm from (choose the LTS version)
 2. Open a terminal window & verify Node: node --version
@@ -9,7 +9,7 @@ Installation of tools:
 5. Install editor - recommended Visual Studio Code from 
 6. Browser - any one, but Chrome recommended
 
-#Ionic start:
+## Ionic start:
 
 1. Open the terminal and go to the path where you'll want to put your Ionic projects
 in future.
@@ -20,7 +20,7 @@ Then write
 Choose angular in config setup and then "A starting project with a simple tabbed interface" in the next config question.
 
 
-#Ionic serve:
+## Ionic serve:
 1. To run the new app we change into the app folder with
 $ cd first-app
 2. and then type
